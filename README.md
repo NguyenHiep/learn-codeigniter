@@ -1,2 +1,1 @@
-# learn-codeigniter
-Hướng dẫn học codeigniter
+# Huong dan hoc codeigniter
